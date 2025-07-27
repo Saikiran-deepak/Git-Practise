@@ -1,7 +1,5 @@
 Testing git pull issues
 Issues if fixed
-<<<<<<< HEAD
 Third update
-=======
 Again updated in git
->>>>>>> 223d824465601902de784be0fdbde3e3a805455a
+Fourth update in git
